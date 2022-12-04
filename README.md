@@ -1,6 +1,8 @@
 # Advent_Of_Code_2022_Python
 Advent of code, all solutions in done in python by yours truly!
 
+Also code is not optimal at all and really messy so please be careful of that
+
 
 ANSWERS TO THEM ALL (According to my input)
 
