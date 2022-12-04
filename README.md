@@ -6,9 +6,9 @@ ANSWERS TO THEM ALL (According to my input)
 
 **Day 1:
 
-\t Part 1 = 72718 Calories
-  
-  Part 2 = 213089 Calories
+&emsp;Part 1 = 72718 Calories
+
+&emsp;Part 2 = 213089 Calories
  
 **Day 2:
   
