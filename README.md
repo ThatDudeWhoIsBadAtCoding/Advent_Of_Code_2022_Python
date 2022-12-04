@@ -12,19 +12,19 @@ ANSWERS TO THEM ALL (According to my input)
  
 **Day 2:
   
-  Part 1 = 15632 Score
+&emsp;Part 1 = 15632 Score
   
-  Part 2 = 14416 Score
+&emsp;Part 2 = 14416 Score
  
 **Day 3:
  
-  Part 1 = 7863 Priority sum
+&emsp;Part 1 = 7863 Priority sum
   
-  Part 2 = 2488 Priority sum
+&emsp;Part 2 = 2488 Priority sum
   
 **Day 4:
 
-  Part 1 = 556 ranges
+&emsp;Part 1 = 556 ranges
   
-  Part 2 = 876 ranges
+&emsp;Part 2 = 876 ranges
  
