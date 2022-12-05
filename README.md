@@ -29,4 +29,11 @@ ANSWERS TO THEM ALL (According to my input)
 &emsp;Part 1 = 556 ranges
   
 &emsp;Part 2 = 876 ranges
+
+**Day 5:**
+
+&emsp;Part 1 = SVFDLGLWV
+
+&emsp;Part 2 = DCVTCVPCL
+
  
