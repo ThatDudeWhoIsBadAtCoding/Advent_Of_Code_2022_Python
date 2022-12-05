@@ -43,5 +43,7 @@ with open("Day 5/crates.txt", "r+") as Crate_File:
         crates = follow_instruction(instruction, crates)
 message = ""
 for stack in crates:
+    if len(stack) <= 0:
+        continue
     message += stack[0]
 print(message)
