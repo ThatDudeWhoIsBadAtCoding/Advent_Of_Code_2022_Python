@@ -36,4 +36,9 @@ ANSWERS TO THEM ALL (According to my input)
 
 &emsp;Part 2 = DCVTCVPCL
 
+**Day 6:**
+
+&emsp;Part 1 = 1452 characters
+
+&emsp;Part 2 = 3153 characters
  
