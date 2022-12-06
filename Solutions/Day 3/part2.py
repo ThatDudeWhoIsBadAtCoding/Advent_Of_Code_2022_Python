@@ -7,7 +7,7 @@ group_ind = 1
 curr_group = []
 
 
-def find_common(group: str) -> int:
+def find_common(group: list) -> int:
     grp_priority = 1
     for item in group[0]:
         if item in group[1] and item in group[2]:
